@@ -1,0 +1,4 @@
+*.0
+*.exe
+sensor_app
+build/
